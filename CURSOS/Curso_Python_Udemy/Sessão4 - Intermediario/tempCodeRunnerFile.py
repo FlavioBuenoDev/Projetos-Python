@@ -1,0 +1,1 @@
+soma, variavel_modulo
