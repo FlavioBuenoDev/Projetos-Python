@@ -9,7 +9,7 @@
 # lf.log_success('Que Legal')
 
 
-from eletronico import Smartphone
+from aula228_eletronico import Smartphone
 
 galaxy_s = Smartphone('Galaxy S')
 iphone = Smartphone('Iphone')
