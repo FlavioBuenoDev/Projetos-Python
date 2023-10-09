@@ -1,3 +1,29 @@
+
 {
-    "python.analysis.typeCheckingMode": "off"
+    //"python.analysis.typeCheckingMode": "off",
+    "editor.rover.enabled": true,
+    "editor.rulers": [80,120],
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "code-runner.executorMap": {
+        "python": "clear ; python -u",
+    },
+      "python.languageServer": "Pylance",
+      "python.formatting.autopep8.args": [
+        "--indent-size=4",
+        "--max-line-length=80"
+        // "--ignore=E111"
+      ],
+      "python.linting.flake8.args": [
+        // "--ignore=E111",
+      ],
+      "python.linting.flake8.Enabled": true,
+      "python.linting.mypy.Enabled": true,
+      "python.testing.unittestEnabled": false,
+      "python.testing.pytestEnabled": true,
+      "python.analysis.diagnosticSeverityOverrides": {},
+      // "python.defaultInterpreterPath": "./venv/bin/python",
+      "python.analysis.typeCheckingMode": "basic",
+      "cSpell.enabled": false
 }
