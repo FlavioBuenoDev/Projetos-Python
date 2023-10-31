@@ -1,0 +1,743 @@
+1697745417577	geckodriver	INFO	Listening on 127.0.0.1:58475
+1697745420556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileH2fRU7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697745421236	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697745421535	Marionette	INFO	Listening on port 58484
+WebDriver BiDi listening on ws://127.0.0.1:58476
+Read port: 58484
+1697745421930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58476/devtools/browser/20980e14-5bc1-4fe4-99d6-be89f50f17f9
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+1697745439182	Marionette	INFO	Stopped listening on port 58484
+Dynamically enable window occlusion 1
+1697745652728	geckodriver	INFO	Listening on 127.0.0.1:58628
+1697745655700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileX35jQr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697745656520	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697745656839	Marionette	INFO	Listening on port 58639
+WebDriver BiDi listening on ws://127.0.0.1:58629
+Read port: 58639
+1697745657347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58629/devtools/browser/798d8757-d4cd-4209-8b7a-3849640ab3ce
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+1697745726643	Marionette	INFO	Stopped listening on port 58639
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1697800552485	geckodriver	INFO	Listening on 127.0.0.1:61209
+1697800555480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileg9OCnL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697800556365	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697800556822	Marionette	INFO	Listening on port 61221
+WebDriver BiDi listening on ws://127.0.0.1:61210
+Read port: 61221
+1697800557291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61210/devtools/browser/eee3b7d7-c301-4c53-8e05-878a1885395a
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697800578563	Marionette	INFO	Stopped listening on port 61221
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1697800578621	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+1697800624175	geckodriver	INFO	Listening on 127.0.0.1:61313
+1697800627151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofile1BPCNy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697800627841	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697800628169	Marionette	INFO	Listening on port 61323
+WebDriver BiDi listening on ws://127.0.0.1:61314
+Read port: 61323
+1697800628535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61314/devtools/browser/a3de9de9-404f-431c-8c77-118ef86157e2
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697800686235	Marionette	INFO	Stopped listening on port 61323
+Dynamically enable window occlusion 1
+1697801322752	geckodriver	INFO	Listening on 127.0.0.1:61835
+1697801325728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilema1WYu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697801326419	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697801326742	Marionette	INFO	Listening on port 61847
+WebDriver BiDi listening on ws://127.0.0.1:61836
+Read port: 61847
+1697801327207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61836/devtools/browser/4f100d73-4004-48cb-9453-fee2b1bec267
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1697806126963	Marionette	INFO	Stopped listening on port 61847
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilel9ijeK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697806020788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697806021141	Marionette	INFO	Listening on port 65472
+WebDriver BiDi listening on ws://127.0.0.1:65457
+Read port: 65472
+1697806021592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65457/devtools/browser/e87cbef2-7631-4239-a2e3-aecf2559b353
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1697806130555	Marionette	INFO	Stopped listening on port 65472
+Dynamically enable window occlusion 1
+1697806194212	geckodriver	INFO	Listening on 127.0.0.1:49236
+1697806197194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofile9sttTC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697806197963	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697806198276	Marionette	INFO	Listening on port 49250
+WebDriver BiDi listening on ws://127.0.0.1:49237
+Read port: 49250
+1697806198642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49237/devtools/browser/447376dd-5fe8-45cb-b3dc-078ecb47bb33
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://unihosp.penso.com.br:9071."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.m1697807856381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileNTGpBP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697807857346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697807857700	Marionette	INFO	Listening on port 50904
+WebDriver BiDi listening on ws://127.0.0.1:50895
+Read port: 50904
+1697807858237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50895/devtools/browser/47f80209-ca03-4121-87fd-31224200e28d
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697807939191	Marionette	INFO	Stopped listening on port 50904
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileeteMjT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697807898610	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697807898972	Marionette	INFO	Listening on port 50979
+WebDriver BiDi listening on ws://127.0.0.1:50969
+Read port: 50979
+1697807899367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50969/devtools/browser/0e3247a9-f674-400b-b9fa-a09d71ca6c7f
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697807938232	Marionette	INFO	Stopped listening on port 50971697807941099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileFJUr6w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697807941780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697807942074	Marionette	INFO	Listening on port 51046
+WebDriver BiDi listening on ws://127.0.0.1:51035
+Read port: 51046
+1697807942488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51035/devtools/browser/5670d695-0b76-4a49-b2fb-e4dc99246e9b
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697807959827	Marionette	INFO	Stopped listening on port 51046
+Dynamically enable window occlusion 1
+1697807970716	geckodriver	INFO	Listening on 127.0.0.1:51094
+1697807973699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilefGDq4F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697807974361	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697807974709	Marionette	INFO	Listening on port 51104
+WebDriver BiDi listening on ws://127.0.0.1:51095
+Read port: 51104
+1697807975050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51095/devtools/browser/80400dc2-5931-432c-865f-882e9ad7475c
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697808007951	Marionette	INFO	Stopped listening on port 51101697808008886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileTeHoDh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697808009524	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697808009844	Marionette	INFO	Listening on port 51168
+WebDriver BiDi listening on ws://127.0.0.1:51158
+Read port: 51168
+1697808010301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51158/devtools/browser/84843d36-09ef-4b86-ae8f-8c4800498bdb
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697808069235	Marionette	INFO	Stopped listening on port 51168
+Dynamically enable window occlusion 1
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1697814477246	geckodriver	INFO	Listening on 127.0.0.1:57579
+1697814480222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileK1Dz4f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697814481180	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697814481523	Marionette	INFO	Listening on port 57595
+WebDriver BiDi listening on ws://127.0.0.1:57580
+Read port: 57595
+1697814481987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57580/devtools/browser/d3515b13-a7da-44e5-9d94-16d9a76cbbd9
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697814558670	Marionette	INFO	Stopped listening on port 57595
+Dynamically enable window occlusion 1
+1697814680790	geckodriver	INFO	Listening on 127.0.0.1:57770
+1697814683757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofiletJRPc6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697814684464	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697814684832	Marionette	INFO	Listening on port 57780
+WebDriver BiDi listening on ws://127.0.0.1:57771
+Read port: 57780
+1697814685295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57771/devtools/browser/ef560da1-1898-4bf2-8be0-2d589be2ce89
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697814706514	Marionette	INFO	Stopped listening on port 57780
+Dynamically enable window occlusion 1
+1697814759677	geckodriver	INFO	Listening on 127.0.0.1:57868
+1697814762644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilev7NEff"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697814763326	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697814763687	Marionette	INFO	Listening on port 57878
+WebDriver BiDi listening on ws://127.0.0.1:57869
+Read port: 57878
+1697814764132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57869/devtools/browser/56790359-2421-4990-b4ce-380d66f5bb0b
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697814825814	Marionette	INFO	Stopped listening on port 57878
+Dynamically enable window occlusion 1
+1697814850396	geckodriver	INFO	Listening on 127.0.0.1:57979
+1697814853388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57980" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileowTuak"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697814854034	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697814854388	Marionette	INFO	Listening on port 57989
+WebDriver BiDi listening on ws://127.0.0.1:57980
+Read port: 57989
+1697814854794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57980/devtools/browser/371eca47-8f06-4218-a524-0c78b0bba204
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697814906895	Marionette	INFO	Stopped listening on port 57989
+Dynamically enable window occlusion 1
+1697814949239	geckodriver	INFO	Listening on 127.0.0.1:58083
+1697814952208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileKCFgyh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697814952879	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697814953239	Marionette	INFO	Listening on port 58094
+WebDriver BiDi listening on ws://127.0.0.1:58084
+Read port: 58094
+1697814953594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58084/devtools/browser/8beb6f05-fce5-47b4-930a-e6629551042c
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697815003303	Marionette	INFO	Stopped listening on port 58094
+Dynamically enable window occlusion 1
+1697815076158	geckodriver	INFO	Listening on 127.0.0.1:58204
+1697815079136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileA3MGix"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697815079880	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697815080216	Marionette	INFO	Listening on port 58216
+WebDriver BiDi listening on ws://127.0.0.1:58205
+Read port: 58216
+1697815080677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58205/devtools/browser/19cad392-8041-46b7-b703-92b147a2ded8
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697815141345	Marionette	INFO	Stopped listening on port 58216
+Dynamically enable window occlusion 1
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450945/customhighlighter540, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:650:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:787:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:755:16\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:573:17\nquit@chrome://remote/content/shared/Browser.sys.mjs:94:22\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.sys.mjs:2920:42\ndespatch@chrome://remote/content/marionette/server.sys.mjs:318:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:289:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:263:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1697815886273	geckodriver	INFO	Listening on 127.0.0.1:58868
+1697815889251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilecI630m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697815889966	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697815890344	Marionette	INFO	Listening on port 58878
+WebDriver BiDi listening on ws://127.0.0.1:58869
+Read port: 58878
+1697815890843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58869/devtools/browser/052a94a7-31b2-484e-9465-e9edca3f9307
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697815966539	Marionette	INFO	Stopped listening on port 58878
+Dynamically enable window occlusion 1
+1697816118394	geckodriver	INFO	Listening on 127.0.0.1:59067
+1697816121350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileYx9GCB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697816122065	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697816122427	Marionette	INFO	Listening on port 59083
+WebDriver BiDi listening on ws://127.0.0.1:59068
+Read port: 59083
+1697816122864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59068/devtools/browser/c9bfce80-5ee4-4501-89bb-fa965ad4a1d4
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1697816283293	Marionette	INFO	Stopped listening on port 59083
+Dynamically enable window occlusion 1
+1697818575967	geckodriver	INFO	Listening on 127.0.0.1:60962
+1697818578944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilewci5oy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697818579700	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697818580038	Marionette	INFO	Listening on port 60975
+WebDriver BiDi listening on ws://127.0.0.1:60963
+Read port: 60975
+1697818580577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60963/devtools/browser/99083299-6293-4041-a8d5-431bdf3a3943
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697818660955	Marionette	INFO	Stopped listening on port 60975
+Dynamically enable window occlusion 1
+1697818668204	geckodriver	INFO	Listening on 127.0.0.1:61072
+1697818671178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilem6AoLW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697818671971	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697818672315	Marionette	INFO	Listening on port 61083
+WebDriver BiDi listening on ws://127.0.0.1:61073
+Read port: 61083
+1697818672828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61073/devtools/browser/407c60f6-cc19-4bdc-ab81-4c632c6fe5b2
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1697824057324	Marionette	INFO	Stopped listening on port 61083
+Dynamically enable window occlusion 1
+1697824201925	geckodriver	INFO	Listening on 127.0.0.1:63321
+1697824204982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofiledrts7h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697824205743	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697824206078	Marionette	INFO	Listening on port 63331
+WebDriver BiDi listening on ws://127.0.0.1:63322
+Read port: 63331
+1697824206553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63322/devtools/browser/9eac4199-2135-4a68-a601-61fe4171c301
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608, line 8123: Script terminated by timeout at:
+DwtControl.getTargetControl@https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608:8123:49
+DwtControl.__blurHdlr@https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608:8409:55
+
+1697824283531	Marionette	INFO	Stopped listening on port 63331
+Dynamically enable window occlusion 1
+ing MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697824251728	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697824252203	Marionette	INFO	Listening on port 63433
+WebDriver BiDi listening on ws://127.0.0.1:63425
+Read port: 63433
+1697824252682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63425/devtools/browser/b353811c-f399-40fe-af95-6e4a736f85fa
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697824281891	Marionette	INFO	Stopped listening on port 63433
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+1697824281985	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+1697825482497	geckodriver	INFO	Listening on 127.0.0.1:64699
+1697825485475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofiled9YPpV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697825486155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697825486500	Marionette	INFO	Listening on port 64711
+WebDriver BiDi listening on ws://127.0.0.1:64700
+Read port: 64711
+1697825486968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64700/devtools/browser/ac913b9a-4d0b-424f-bb0c-b1bb65a6e38d
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697825522752	Marionette	INFO	Stopped listening on port 64711
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileJgJKnA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697825522638	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697825522992	Marionette	INFO	Listening on port 64779
+WebDriver BiDi listening on ws://127.0.0.1:64765
+Read port: 64779
+1697825523544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64765/devtools/browser/8bb1e460-67df-48a8-ba55-de942141b604
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697825552902	Marionette	INFO	Stopped listening on port 64779
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+1697825553001	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+1697825556531	geckodriver	INFO	Listening on 127.0.0.1:64841
+1697825559498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileJVJR2k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697825560192	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697825560587	Marionette	INFO	Listening on port 64853
+WebDriver BiDi listening on ws://127.0.0.1:64842
+Read port: 64853
+1697825561009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64842/devtools/browser/ad1d184b-02d7-430c-98bc-bcd92928e423
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: uncaught exception: Object
+1697827840700	Marionette	INFO	Stopped listening on port 64853
+Dynamically enable window occlusion 1
+1697828086726	geckodriver	INFO	Listening on 127.0.0.1:50692
+1697828089680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileAWEVrK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697828090375	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697828090722	Marionette	INFO	Listening on port 50704
+WebDriver BiDi listening on ws://127.0.0.1:50693
+Read port: 50704
+1697828091200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50693/devtools/browser/669dc9c6-9756-4b8f-bcb3-2b1630143fee
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697828181251	Marionette	INFO	Stopped listening on port 50704
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilenowvVw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697828135879	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697828136204	Marionette	INFO	Listening on port 50781
+WebDriver BiDi listening on ws://127.0.0.1:50771
+Read port: 50781
+1697828136572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50771/devtools/browser/a5eb1e53-2ed3-4362-9243-f5ffe1c7ba26
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697828177214	Marionette	INFO	Stopped listening on port 50781697828178608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileROA13t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697828179325	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697828179735	Marionette	INFO	Listening on port 50859
+WebDriver BiDi listening on ws://127.0.0.1:50846
+Read port: 50859
+1697828180294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50846/devtools/browser/e32163fa-fbd3-40f9-88d6-727c84d10f89
+1697828184153	Marionette	INFO	Stopped listening on port 50859
+Dynamically enable window occlusion 1
+1697828194833	geckodriver	INFO	Listening on 127.0.0.1:50881
+1697828197795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50882" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileT2xqRg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697828198459	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697828198800	Marionette	INFO	Listening on port 50892
+WebDriver BiDi listening on ws://127.0.0.1:50882
+Read port: 50892
+1697828199269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50882/devtools/browser/fedfb227-07e9-439a-9d7d-19596b3d013a
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697828264606	Marionette	INFO	Stopped listening on port 50892
+Dynamically enable window occlusion 1
+1697828462563	geckodriver	INFO	Listening on 127.0.0.1:51127
+1697828465535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilep4MwMS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697828466205	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697828466556	Marionette	INFO	Listening on port 51140
+WebDriver BiDi listening on ws://127.0.0.1:51128
+Read port: 51140
+1697828467005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51128/devtools/browser/9023ca52-ed43-45f5-9de4-7bcd4abbb83d
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697829097401	Marionette	INFO	Stopped listening on port 51140
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileMZ9Dk9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697828568463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697828568813	Marionette	INFO	Listening on port 51243
+WebDriver BiDi listening on ws://127.0.0.1:51233
+Read port: 51243
+1697828569238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51233/devtools/browser/1646e154-8955-4f58-87d7-20628254180d
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697829093229	Marionette	INFO	Stopped listening on port 51243
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51332" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilelzOiYS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697828637801	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697828638165	Marionette	INFO	Listening on port 51345
+WebDriver BiDi listening on ws://127.0.0.1:51332
+Read port: 51345
+1697828638593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51332/devtools/browser/4c2fb811-8a51-4345-a282-42f37f0bbc92
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://unihosp.penso.com.br/js/Startup1_1_all.js.zgz?v=230908141642, line 5338: Script terminated by timeout at:
+Dwt.setVisible@https://unihosp.penso.com.br/js/Startup1_1_all.js.zgz?v=230908141642:5338:22
+DwtShell.prototype.setBusy@https://unihosp.penso.com.br/js/Startup1_1_all.js.zgz?v=230908141642:8467:5
+ZmRequestMgr.prototype.sendRequest@https://unihosp.penso.com.br/js/Startup1_2_all.js.zgz?v=230908141642:12364:14
+ZmZimbraMail.prototype.sendRequest@https://unihosp.penso.com.br/js/Startup1_2_all.js.zgz?v=230908141642:13066:72
+ZmZimbraMail._endSession@https://unihosp.penso.com.br/js/Startup1_2_all.js.zgz?v=230908141642:13869:6
+ZmZimbraMail.unload@https://unihosp.penso.com.br/js/Startup1_2_all.js.zgz?v=230908141642:12702:79
+closure@https://unihosp.penso.com.br/js/Startup1_1_all.js.zgz?v=230908141642:74:15
+
+1697828914632	Marionette	INFO	Stopped listening on port 51345
+Dynamically enable window occlusion 1
+1697829233635	geckodriver	INFO	Listening on 127.0.0.1:51828
+1697829236596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileHWJ9Dc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697829237269	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697829237612	Marionette	INFO	Listening on port 51837
+WebDriver BiDi listening on ws://127.0.0.1:51829
+Read port: 51837
+1697829238030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51829/devtools/browser/fcf34207-f595-4713-a492-b8af8bb6f90a
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697829303178	Marionette	INFO	Stopped listening on port 51837
+Dynamically enable window occlusion 1
+1697829964559	geckodriver	INFO	Listening on 127.0.0.1:52085
+1697829967523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileeconT0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697829968262	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697829968543	Marionette	INFO	Listening on port 52093
+WebDriver BiDi listening on ws://127.0.0.1:52086
+Read port: 52093
+1697829969002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52086/devtools/browser/3dfd42d6-25e9-474c-badd-cac48a74476d
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697829995850	Marionette	INFO	Stopped listening on port 52093
+Dynamically enable window occlusion 1
+1697830195437	geckodriver	INFO	Listening on 127.0.0.1:52204
+1697830198414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileRuxLeB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697830199118	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697830199460	Marionette	INFO	Listening on port 52215
+WebDriver BiDi listening on ws://127.0.0.1:52205
+Read port: 52215
+1697830199868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52205/devtools/browser/c209aaa1-cbb5-4062-8960-78d949652e0a
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697830263125	Marionette	INFO	Stopped listening on port 52215
+Dynamically enable window occlusion 1
+1697830391236	geckodriver	INFO	Listening on 127.0.0.1:52291
+1697830394226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileF7ySGf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697830394917	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697830395238	Marionette	INFO	Listening on port 52300
+WebDriver BiDi listening on ws://127.0.0.1:52292
+Read port: 52300
+1697830395574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52292/devtools/browser/06e5dca1-1bb2-4b8b-b82f-09b7447a5367
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608, line 8123: Script terminated by timeout at:
+DwtControl.getTargetControl@https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608:8123:49
+DwtControl.__blurHdlr@https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608:8409:55
+
+1697830441439	Marionette	INFO	Stopped listening on port 52300
+Dynamically enable window occlusion 1
+1697830606663	geckodriver	INFO	Listening on 127.0.0.1:52361
+1697830609633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilektrAoP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697830610314	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697830610664	Marionette	INFO	Listening on port 52371
+WebDriver BiDi listening on ws://127.0.0.1:52362
+Read port: 52371
+1697830611085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52362/devtools/browser/8cd72e3c-d1e6-44ab-bcfa-63b80ccea130
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608, line 13400: Script terminated by timeout at:
+DwtTreeItem.prototype._setTreeElementStyles@https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608:13400:2
+DwtTreeItem.prototype._blur@https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608:13435:6
+DwtControl.prototype.__doBlur@https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608:8436:7
+DwtControl.__blurHdlr@https://unihosp.penso.com.br:9071/zimbraAdmin/js/Ajax_all.js.zgz?v=230323081608:8412:10
+
+1697831047135	Marionette	INFO	Stopped listening on port 52371
+Dynamically enable window occlusion 1
+d port: 52455
+1697830883813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52448/devtools/browser/9241472c-a58a-48c9-b061-c1ebcd264ec2
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1697831044547	Marionette	INFO	Stopped listening on port 52455
+Dynamically enable window occlusion 1
+1698689845280	geckodriver	INFO	Listening on 127.0.0.1:51829
+1698689848271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileUvE0R5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698689849491	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698689849858	Marionette	INFO	Listening on port 51840
+WebDriver BiDi listening on ws://127.0.0.1:51830
+Read port: 51840
+1698689850555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51830/devtools/browser/408d4a1b-38ef-462f-b116-1cb90be61932
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1698689876643	Marionette	INFO	Stopped listening on port 51840
+Dynamically enable window occlusion 1
+1698690023634	geckodriver	INFO	Listening on 127.0.0.1:51913
+1698690026610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilebzDfrk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698690027449	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698690027740	Marionette	INFO	Listening on port 51921
+WebDriver BiDi listening on ws://127.0.0.1:51914
+Read port: 51921
+1698690028247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51914/devtools/browser/fcf69d81-aeac-4a48-99b2-2769dca19047
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1698690189340	Marionette	INFO	Stopped listening on port 51921
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1698690255019	geckodriver	INFO	Listening on 127.0.0.1:51993
+1698690257996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilelL6zf5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698690258741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698690259094	Marionette	INFO	Listening on port 52001
+WebDriver BiDi listening on ws://127.0.0.1:51994
+Read port: 52001
+1698690259567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51994/devtools/browser/a810ad8d-ec45-4f40-92a4-97018d2b50f1
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1698690420854	Marionette	INFO	Stopped listening on port 52001
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1698690906809	geckodriver	INFO	Listening on 127.0.0.1:52175
+1698690909795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilelycjUg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698690910616	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698690910974	Marionette	INFO	Listening on port 52185
+WebDriver BiDi listening on ws://127.0.0.1:52176
+Read port: 52185
+1698690911506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52176/devtools/browser/bd531c6d-66b9-4976-8b8f-6175142dca03
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1698690997298	Marionette	INFO	Stopped listening on port 52185
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+1698691192145	geckodriver	INFO	Listening on 127.0.0.1:52311
+1698691195132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileJv4f9h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698691195954	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698691196336	Marionette	INFO	Listening on port 52323
+WebDriver BiDi listening on ws://127.0.0.1:52312
+Read port: 52323
+1698691196769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52312/devtools/browser/782b7646-021f-4983-8924-31abff07ab8c
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1698691221387	Marionette	INFO	Stopped listening on port 52323
+Dynamically enable window occlusion 1
+1698691264837	geckodriver	INFO	Listening on 127.0.0.1:52391
+1698691267830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileK6VOZj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698691268667	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698691269046	Marionette	INFO	Listening on port 52402
+WebDriver BiDi listening on ws://127.0.0.1:52392
+Read port: 52402
+1698691269574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52392/devtools/browser/8cdda003-a4f5-4a1d-ba40-f6433c2f3d50
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1698691388114	Marionette	INFO	Stopped listening on port 52402
+Dynamically enable window occlusion 1
+1698691812144	geckodriver	INFO	Listening on 127.0.0.1:52751
+1698691815147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FLAVIO~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileQ3kZ3M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698691816136	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698691816560	Marionette	INFO	Listening on port 52762
+WebDriver BiDi listening on ws://127.0.0.1:52752
+Read port: 52762
+1698691817028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52752/devtools/browser/749501b2-9d49-4c4c-8932-d6773fcf0f99
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/XForms_all.js.zgz?v=230323081608, line 1641: unreachable code after return statement
+JavaScript warning: https://unihosp.penso.com.br:9071/zimbraAdmin/js/Admin_all.js.zgz?v=230323081608, line 26415: unreachable code after return statement
+1698692696625	Marionette	INFO	Stopped listening on port 52762
+Dynamically enable window occlusion 1
