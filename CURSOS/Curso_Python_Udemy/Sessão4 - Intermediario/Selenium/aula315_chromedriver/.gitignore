@@ -1,0 +1,7 @@
+__localcode
+.DS_Store
+chromedriver
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+

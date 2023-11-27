@@ -1,14 +1,16 @@
 # sys.argv - Executando arquivos com argumentos no sistema
 # Fonte = Fira Code
-
 import sys
 
-#print(sys.argv)  # Mostra todos os argumentos passados na linha de comando
+argumentos = sys.argv
+qtd_argumentos = len(argumentos)
 
-argumetos = sys.argv
-qtd_argumentos = len(argumetos)
-
-if qtd_argumentos < 1:
-    print("Você não tem arqgumentos")
+if qtd_argumentos <= 1:
+    print('Você não passou argumentos')
 else:
-    print(f"Você passou os argumetos {argumetos[1:]}")
+    try:
+        print(f'Você passou os argumentos {argumentos[1:]}')
+        print(f'Faça alguma coisa com {argumentos[1]}')
+        print(f'Faça outra coisa com {argumentos[2]}')
+    except IndexError:
+        print('Faltam argumentos')
